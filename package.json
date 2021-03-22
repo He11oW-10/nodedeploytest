@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "version": "",
+  "description": "",
+  "scripts" : {
+    "test": "echo \"No tests yet...\""
+  },
+  "author": "",
+  "dependencies": {
+    "@azure/storage-blob": "^12.5.0",
+    "https": "^1.0.0",
+    "request": "^2.88.2"
+  }
+}
